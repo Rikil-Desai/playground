@@ -1,2 +1,2 @@
 This is my first file.
-This line was added from a local branch.
+This line was changed from a local branch.
