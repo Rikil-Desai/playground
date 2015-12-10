@@ -1,2 +1,2 @@
 This is my first file.
-This line has been resolved for conflicts.
+This line was added from a local branch.
