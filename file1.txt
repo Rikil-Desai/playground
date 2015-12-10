@@ -1,2 +1,2 @@
 This is my first file.
-This line was edited from the master branch
+This line has been resolved for conflicts.
